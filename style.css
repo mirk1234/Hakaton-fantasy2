@@ -31,3 +31,7 @@ main{
 footer p {
   color: white;
 }
+
+img {
+ text-align: right; 
+}
