@@ -23,6 +23,7 @@ table{
 
 tr, td {
     border: 1px solid white;
+  color:white;
     
 }
 
@@ -39,9 +40,5 @@ main{
 }
 footer p {
   color: white;
-}
-
-img {
- text-align: right; 
 }
 
